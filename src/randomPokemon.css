@@ -1,0 +1,12 @@
+.randomPokemon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px black solid;
+    width: 300px;
+    color: blue;
+}
+
+.randomPokemon img{
+    width: 150px;
+}
