@@ -10,3 +10,15 @@
 .randomPokemon img{
     width: 150px;
 }
+
+
+
+
+
+.randomPokemon button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: blue;
+}
